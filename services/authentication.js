@@ -1,7 +1,7 @@
 //imports
 const JWT = require('jsonwebtoken');
 //secret key for the token
-const secret = "No_Nut_November";
+const secret = "....";
 //function to create a token for the user
 function createTokenForUser(user) {
     const pyload = {
